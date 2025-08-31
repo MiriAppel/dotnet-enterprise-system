@@ -2,21 +2,26 @@
 
 C# business application with 3-layer architecture, WinForms UI and multiple storage options for managing products, customers, promotions and orders.
 
-## Architecture
+## Architecture & Design Patterns
 
 - **UI Layer** - WinForms user interface
-- **BL (Business Logic)** - Business rules and logic
+- **BL (Business Logic)** - Business rules and logic with Factory pattern
 - **DAL (Data Access Layer)** - Data storage abstraction
-  - **DalList** - In-memory storage using Lists
-  - **DalXml** - XML file storage
+  - **DalList** - In-memory storage using Lists (Singleton pattern)
+  - **DalXml** - XML file storage (Singleton pattern)
+
+## Design Patterns Implemented
+
+- **Factory Pattern** - For creating objects and flexible component switching
+- **Singleton Pattern** - For optimal memory management and preventing concurrent access
 
 ## Features
 
 - Product management with inventory tracking
-- Customer management with membership support
-- Sales promotions and discounts
+- Customer management with membership club support
+- Sales promotions and discounts (for all customers or club members only)
 - Order processing
-- Dual storage options (Lists/XML)
+- Multiple storage options (Lists/XML)
 
 ## Requirements
 
@@ -31,15 +36,14 @@ C# business application with 3-layer architecture, WinForms UI and multiple stor
 4. Build and run
 
 ## Project Structure
-
 ```
-├── BL/                 # Business Logic Layer
-├── DalFacade/         # Data Access Interface
-├── DalList/           # In-Memory Implementation
-├── DalXml/            # XML Storage Implementation
-├── UI/                # WinForms User Interface
-├── Tools/             # Utilities
-└── xml/               # XML data files
+├── BL/ # Business Logic Layer (Factory Pattern)
+├── DalFacade/ # Data Access Interface
+├── DalList/ # In-Memory Implementation (Singleton)
+├── DalXml/ # XML Storage Implementation (Singleton)
+├── UI/ # WinForms User Interface
+├── Tools/ # Utilities
+└── xml/ # XML data files
 ```
 
 ## Technologies
@@ -48,3 +52,4 @@ C# business application with 3-layer architecture, WinForms UI and multiple stor
 - Windows Forms
 - XML Storage
 - Layered Architecture Pattern
+- Factory & Singleton Design Patterns
