@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <IdProduct>100</IdProduct>
+    <ProductName>בייביגרו</ProductName>
+    <Category>בגדים</Category>
+    <Price>65</Price>
+    <AmountInStock>20</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>101</IdProduct>
+    <ProductName>בקבוק Mam</ProductName>
+    <Category>בקבוקים_ומוצצים</Category>
+    <Price>30</Price>
+    <AmountInStock>53</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>102</IdProduct>
+    <ProductName>עגלת בוגבו</ProductName>
+    <Category>עגלות</Category>
+    <Price>5000</Price>
+    <AmountInStock>42</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>103</IdProduct>
+    <ProductName>מוצץ Avent</ProductName>
+    <Category>בקבוקים_ומוצצים</Category>
+    <Price>25</Price>
+    <AmountInStock>15</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>104</IdProduct>
+    <ProductName>צמיד תליונים</ProductName>
+    <Category>צמידים_ועגילים</Category>
+    <Price>70</Price>
+    <AmountInStock>10</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>105</IdProduct>
+    <ProductName>בגד גוף</ProductName>
+    <Category>בגדים</Category>
+    <Price>40</Price>
+    <AmountInStock>35</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>106</IdProduct>
+    <ProductName>כובע פונפון</ProductName>
+    <Category>שמיכות_וכובעים</Category>
+    <Price>50</Price>
+    <AmountInStock>7</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>107</IdProduct>
+    <ProductName>חולצה מיקימאוס</ProductName>
+    <Category>בגדים</Category>
+    <Price>45</Price>
+    <AmountInStock>25</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>108</IdProduct>
+    <ProductName>עגילי כסף</ProductName>
+    <Category>צמידים_ועגילים</Category>
+    <Price>50</Price>
+    <AmountInStock>20</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>109</IdProduct>
+    <ProductName>שמיכת קיץ</ProductName>
+    <Category>שמיכות_וכובעים</Category>
+    <Price>45</Price>
+    <AmountInStock>33</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>110</IdProduct>
+    <ProductName>עגלת טיולון</ProductName>
+    <Category>עגלות</Category>
+    <Price>2000</Price>
+    <AmountInStock>17</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>111</IdProduct>
+    <ProductName>מוצץ מינימאוס</ProductName>
+    <Category>בקבוקים_ומוצצים</Category>
+    <Price>15</Price>
+    <AmountInStock>6</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>112</IdProduct>
+    <ProductName>שמיכת פרווה</ProductName>
+    <Category>שמיכות_וכובעים</Category>
+    <Price>60</Price>
+    <AmountInStock>22</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>113</IdProduct>
+    <ProductName>גרבי דנטל</ProductName>
+    <Category>בגדים</Category>
+    <Price>10</Price>
+    <AmountInStock>16</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>114</IdProduct>
+    <ProductName>בקבוק קטנטן</ProductName>
+    <Category>בקבוקים_ומוצצים</Category>
+    <Price>12</Price>
+    <AmountInStock>10</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>115</IdProduct>
+    <ProductName>צמיד זהב</ProductName>
+    <Category>צמידים_ועגילים</Category>
+    <Price>150</Price>
+    <AmountInStock>5</AmountInStock>
+  </Product>
+  <Product>
+    <IdProduct>116</IdProduct>
+    <ProductName>מכנס ג'ינס</ProductName>
+    <Category>בגדים</Category>
+    <Price>55</Price>
+    <AmountInStock>20</AmountInStock>
+  </Product>
+</ArrayOfProduct>

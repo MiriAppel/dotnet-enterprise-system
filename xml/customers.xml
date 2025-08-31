@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <Identity>225636687</Identity>
+    <CustomerName>יעל פלדמן</CustomerName>
+    <Address>נתיבות המשפט 17</Address>
+    <Phone>086589452</Phone>
+  </Customer>
+  <Customer>
+    <Identity>958426588</Identity>
+    <CustomerName>הדס לוי</CustomerName>
+    <Address>ר' עקיבא 15</Address>
+    <Phone>089566632</Phone>
+  </Customer>
+  <Customer>
+    <Identity>854126965</Identity>
+    <CustomerName>אביגיל כהן</CustomerName>
+    <Address>אבני נזר 6</Address>
+    <Phone>085874122</Phone>
+  </Customer>
+  <Customer>
+    <Identity>552781535</Identity>
+    <CustomerName>מיכל לוין</CustomerName>
+    <Address>יהודה הנשיא 29</Address>
+    <Phone>085245565</Phone>
+  </Customer>
+  <Customer>
+    <Identity>526852145</Identity>
+    <CustomerName>ריקי מלול</CustomerName>
+    <Address>סורוצקין 19</Address>
+    <Phone>025652569</Phone>
+  </Customer>
+  <Customer>
+    <Identity>958624851</Identity>
+    <CustomerName>לאה כהן</CustomerName>
+    <Address>שלום סיון 3</Address>
+    <Phone>029586253</Phone>
+  </Customer>
+  <Customer>
+    <Identity>956553261</Identity>
+    <CustomerName>אתי יפה</CustomerName>
+    <Address>סוקולוב 36</Address>
+    <Phone>036598567</Phone>
+  </Customer>
+  <Customer>
+    <Identity>238564875</Identity>
+    <CustomerName>רחלי רקובסקי</CustomerName>
+    <Address>אור החיים 15</Address>
+    <Phone>089756412</Phone>
+  </Customer>
+  <Customer>
+    <Identity>652563987</Identity>
+    <CustomerName>טלי יעקב</CustomerName>
+    <Address>כהנמן 85</Address>
+    <Phone>036589571</Phone>
+  </Customer>
+</ArrayOfCustomer>

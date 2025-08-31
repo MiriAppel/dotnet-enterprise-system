@@ -1,0 +1,168 @@
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.exe
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.deps.json
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.pdb
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.exe
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.deps.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.exe
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.deps.json
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.runtimeconfig.json
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.pdb
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.pdb
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\ref\DalTest.dll
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.exe
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.deps.json
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.runtimeconfig.json
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.dll
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalTest.pdb
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.dll
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\refint\DalTest.dll
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.pdb
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalTest\obj\Debug\ref\DalTest.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.exe
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.deps.json
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.pdb
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.exe
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.deps.json
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.pdb
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\אפפלדורפר מירי\C#\4א פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalTest.exe
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalTest.deps.json
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalTest.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalTest.pdb
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.exe
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.deps.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalTest.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalTest.exe
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalTest.deps.json
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalTest.runtimeconfig.json
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalTest.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\refint\DalTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalTest\obj\Debug\ref\DalTest.dll

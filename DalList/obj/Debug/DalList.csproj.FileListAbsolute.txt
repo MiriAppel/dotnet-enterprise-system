@@ -1,0 +1,169 @@
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalList.deps.json
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\bin\DalList.pdb
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.CopyComplete
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\refint\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.pdb
+Z:\B\אפפלדורפר מירי\C#\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\ref\DalList.dll
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalList.deps.json
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalList.dll
+D:\מירי אפפלדורפר ונעמה שטרן\bin\DalList.pdb
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.dll
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\refint\DalList.dll
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\DalList.pdb
+D:\מירי אפפלדורפר ונעמה שטרן\DalList\obj\Debug\ref\DalList.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+D:\מתקדם C#\שיעורי בית\1ג פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+Z:\B\אפפלדורפר מירי\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\2ב פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+D:\ת פרויקט C# למזג עם מה שבבית\פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalList.deps.json
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalList.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\bin\DalList.pdb
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+E:\‏‏תיקיה חדשה (2)\4תתתתתתתתת תאת פרויקט קופה רושמתתתת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.deps.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalList.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalList.deps.json
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalList.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\DalList.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\refint\DalList.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\DalList.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalList\obj\Debug\ref\DalList.dll

@@ -1,0 +1,40 @@
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.exe
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.deps.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.runtimeconfig.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\ref\BlTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\refint\BlTest.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.exe
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.deps.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.runtimeconfig.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BlTest.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BlTest\obj\Debug\ref\BlTest.dll

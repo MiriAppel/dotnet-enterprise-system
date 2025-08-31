@@ -1,0 +1,49 @@
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\C#\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\4ב-2 פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.deps.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\refint\BL.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\ref\BL.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\BL.deps.json
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\BL.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\bin\BL.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CopyComplete
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\refint\BL.dll
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\BL.pdb
+D:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\BL\obj\Debug\ref\BL.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.deps.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\BL.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\refint\BL.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\BL\obj\Debug\ref\BL.dll

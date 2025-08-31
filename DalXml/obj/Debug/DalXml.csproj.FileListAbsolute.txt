@@ -1,0 +1,34 @@
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.deps.json
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.pdb
+Z:\B\אפפלדורפר מירי\A 10-03-25פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\ref\DalXml.dll
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.dll
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\refint\DalXml.dll
+E:\ת סי שארפ\A 18-03-25פרויקט קופה רושמת אני מעודכן\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.deps.json
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\DalXml.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\DalXml\obj\Debug\ref\DalXml.dll
