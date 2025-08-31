@@ -1,5 +1,0 @@
-26/03/2025 00:33:40	DalTest.Program.Main:	Could not find file 'C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\data-config'.
-26/03/2025 00:34:13	DalTest.Program.Main:	Could not find file 'C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\data-config'.
-26/03/2025 17:01:03	DalTest.Program.Main:	Could not find file 'C:\Users\user1\Desktop\מתקדם C#\פרויקט קופה רושמת\DotNet2025_2896_1507\bin\data-config'.
-26/03/2025 17:01:32	DalTest.Program.readOne:	The product not exist
-26/03/2025 17:07:35	DalTest.Program.Main:	The customer already exist
