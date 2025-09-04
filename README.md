@@ -39,6 +39,9 @@ C# business application with 3-layer architecture, WinForms UI and multiple stor
 ## Getting Started
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/MiriAppel/business-management-system.git
+   ```
 2. Open `DotNet2025_2896_1507.sln` in Visual Studio
 3. Set UI project as startup project
 4. Build and run
