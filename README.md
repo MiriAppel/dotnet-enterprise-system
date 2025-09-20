@@ -1,6 +1,6 @@
-# Business Management System
+# .NET Enterprise System
 
-C# business application with 3-layer architecture, WinForms UI and multiple storage options for managing products, customers, promotions and orders.
+Enterprise-grade .NET application with 3-layer architecture, WinForms UI and multiple storage options for managing products, customers, promotions and orders.
 
 ## Architecture
 
@@ -40,7 +40,7 @@ C# business application with 3-layer architecture, WinForms UI and multiple stor
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/MiriAppel/business-management-system.git
+   git clone https://github.com/MiriAppel/dotnet-enterprise-system.git
    ```
 2. Open `DotNet2025_2896_1507.sln` in Visual Studio
 3. Set UI project as startup project
