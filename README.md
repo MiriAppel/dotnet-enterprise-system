@@ -46,7 +46,6 @@ Enterprise-grade .NET application with 3-layer architecture, WinForms UI and mul
 3. Set UI project as startup project
 4. Build and run
 
-
 ## Project Structure
 
 ```
